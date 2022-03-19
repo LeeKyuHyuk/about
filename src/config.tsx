@@ -165,7 +165,7 @@ const config: Config = {
             </p>
             GitHub Repository :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://github.com/LeeKyuHyuk/Android-Debloater"
               target="_blank"
               rel="noreferrer"
@@ -196,7 +196,7 @@ const config: Config = {
             </p>
             iHEIC :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://kyuhyuk.kr/article/ordinary-life/2021/09/05/iHEIC-v1.0.0"
               target="_blank"
               rel="noreferrer"
@@ -206,7 +206,7 @@ const config: Config = {
             <br />
             iHEIC 개발 후기 :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://kyuhyuk.kr/article/ordinary-life/2021/09/05/iHEIC-Development-Story"
               target="_blank"
               rel="noreferrer"
@@ -234,7 +234,7 @@ const config: Config = {
             </p>
             모바일 청첩장 페이지 :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://kyuhyuk.kr/wedding-invitation"
               target="_blank"
               rel="noreferrer"
@@ -244,7 +244,7 @@ const config: Config = {
             <br />
             모바일 청첩장 개발 후기 :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://kyuhyuk.kr/article/ordinary-life/2021/10/01/Wedding-Invitation-Development-Story"
               target="_blank"
               rel="noreferrer"
@@ -254,7 +254,7 @@ const config: Config = {
             <br />
             GitHub Repository :{' '}
             <a
-              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none' }}
+              style={{ color: '#01579B', opacity: 0.85, textDecoration: 'none', wordBreak: 'break-all' }}
               href="https://github.com/LeeKyuHyuk/wedding-invitation"
               target="_blank"
               rel="noreferrer"

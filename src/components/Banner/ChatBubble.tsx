@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const ChatBubble = styled.div`
   position: absolute;
   top: 200px;
-  margin-left: 525px;
+  left: calc(50% + 140px);
   background: rgb(255, 255, 255);
   font-weight: 700;
   font-size: 24px;
