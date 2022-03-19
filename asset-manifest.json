@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f1a7605.css",
-    "main.js": "/static/js/main.146571e6.js",
-    "static/js/787.f00ad563.chunk.js": "/static/js/787.f00ad563.chunk.js",
-    "index.html": "/index.html",
-    "main.6f1a7605.css.map": "/static/css/main.6f1a7605.css.map",
-    "main.146571e6.js.map": "/static/js/main.146571e6.js.map",
-    "787.f00ad563.chunk.js.map": "/static/js/787.f00ad563.chunk.js.map"
+    "main.css": "https://kyuhyuk.kr/about/static/css/main.6f1a7605.css",
+    "main.js": "https://kyuhyuk.kr/about/static/js/main.b06bea3a.js",
+    "static/js/787.f00ad563.chunk.js": "https://kyuhyuk.kr/about/static/js/787.f00ad563.chunk.js",
+    "index.html": "https://kyuhyuk.kr/about/index.html",
+    "main.6f1a7605.css.map": "https://kyuhyuk.kr/about/static/css/main.6f1a7605.css.map",
+    "main.b06bea3a.js.map": "https://kyuhyuk.kr/about/static/js/main.b06bea3a.js.map",
+    "787.f00ad563.chunk.js.map": "https://kyuhyuk.kr/about/static/js/787.f00ad563.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f1a7605.css",
-    "static/js/main.146571e6.js"
+    "static/js/main.b06bea3a.js"
   ]
 }
