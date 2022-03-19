@@ -45,11 +45,11 @@ const config: Config = {
     },
     { icon: <MailFilled />, url: 'mailto:lee@kyuhyuk.kr' },
   ],
-  picture: 'https://kyuhyuk.kr/about/profile.jpg',
+  picture: 'https://kyuhyuk.kr/about/assets/profile.jpg',
   chatBubble: "Hi, I'm KyuHyuk 👋",
   title: 'Front-End Developer',
   subTitle: 'Creative Programmer',
-  downloadUrl: 'https://kyuhyuk.kr/about/KyuHyuk_Lee_CV.pdf',
+  downloadUrl: 'https://kyuhyuk.kr/about/assets/KyuHyuk_Lee_CV.pdf',
   introduce: [
     {
       size: 'middle',
@@ -59,7 +59,7 @@ const config: Config = {
       subTitleColor: '#424242',
       descriptions: ['Feb, 2018 - Current', '4 yrs'],
       descriptiosColor: '#424242',
-      image: 'https://kyuhyuk.kr/about/SKhynix.png',
+      image: 'https://kyuhyuk.kr/about/assets/SKhynix.png',
       modal: {
         title: 'SKhynix - Technical Leader',
         content: (
@@ -138,12 +138,12 @@ const config: Config = {
     },
   ],
   speicalizedItems: [
-    'https://kyuhyuk.kr/about/react.png',
-    'https://kyuhyuk.kr/about/electron.svg',
-    'https://kyuhyuk.kr/about/typescript.svg',
-    'https://kyuhyuk.kr/about/graphql.svg',
-    'https://kyuhyuk.kr/about/jest.png',
-    'https://kyuhyuk.kr/about/styled.png',
+    'https://kyuhyuk.kr/about/assets/react.png',
+    'https://kyuhyuk.kr/about/assets/electron.svg',
+    'https://kyuhyuk.kr/about/assets/typescript.svg',
+    'https://kyuhyuk.kr/about/assets/graphql.svg',
+    'https://kyuhyuk.kr/about/assets/jest.png',
+    'https://kyuhyuk.kr/about/assets/styled.png',
   ],
   projects: [
     {
@@ -152,7 +152,7 @@ const config: Config = {
       textAlign: 'center',
       subTitle: 'Android Debloater',
       subTitleColor: '#424242',
-      image: 'https://kyuhyuk.kr/about/Android-Debloater.png',
+      image: 'https://kyuhyuk.kr/about/assets/Android-Debloater.png',
       modal: {
         title: 'Android Debloater',
         content: (
@@ -182,7 +182,7 @@ const config: Config = {
       textAlign: 'center',
       subTitle: 'iHEIC',
       subTitleColor: '#424242',
-      image: 'https://kyuhyuk.kr/about/iHEIC.png',
+      image: 'https://kyuhyuk.kr/about/assets/iHEIC.png',
       modal: {
         title: 'iHEIC',
         content: (
@@ -223,7 +223,7 @@ const config: Config = {
       textAlign: 'center',
       subTitle: 'Wedding Invitation',
       subTitleColor: '#424242',
-      image: 'https://kyuhyuk.kr/about/Wedding-Invitation.png',
+      image: 'https://kyuhyuk.kr/about/assets/Wedding-Invitation.png',
       modal: {
         title: 'Wedding Invitation',
         content: (
